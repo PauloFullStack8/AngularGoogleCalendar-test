@@ -1,0 +1,19 @@
+mat-form-field {
+  margin-right: 8px !important;
+  width: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+
+  div {
+    display: flex;
+    width: 100%;
+  }
+
+  button {
+    height: 50px;
+    margin-bottom: 16px;
+  }
+}
